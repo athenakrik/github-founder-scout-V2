@@ -141,10 +141,20 @@ def _classification_reason(profile_type: str, flags: dict) -> str:
     return f"Insufficient signals; flags fired: {', '.join(fired) or 'none'}"
 
 
+class _DashboardHandler(http.server.SimpleHTTPRequestHandler):
+    def do_GET(self) -> None:
+        if self.path == "/":
+            self.path = "/dashboard.html"
+        super().do_GET()
+
+    def log_message(self, format: str, *args: object) -> None:
+        logger.debug("HTTP %s", format % args)
+
+
 def start_server(output_dir: str, port: int) -> http.server.HTTPServer:
     os.makedirs(output_dir, exist_ok=True)
     handler = functools.partial(
-        http.server.SimpleHTTPRequestHandler,
+        _DashboardHandler,
         directory=os.path.abspath(output_dir),
     )
     http.server.HTTPServer.allow_reuse_address = True
