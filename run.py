@@ -5,6 +5,7 @@ import functools
 import http.server
 import logging
 import os
+import threading
 from datetime import datetime, timezone
 from typing import Optional
 
@@ -140,14 +141,17 @@ def _classification_reason(profile_type: str, flags: dict) -> str:
     return f"Insufficient signals; flags fired: {', '.join(fired) or 'none'}"
 
 
-def serve_dashboard(output_dir: str, port: int) -> None:
+def start_server(output_dir: str, port: int) -> http.server.HTTPServer:
+    os.makedirs(output_dir, exist_ok=True)
     handler = functools.partial(
         http.server.SimpleHTTPRequestHandler,
         directory=os.path.abspath(output_dir),
     )
     http.server.HTTPServer.allow_reuse_address = True
     server = http.server.HTTPServer(("", port), handler)
-    server.serve_forever()
+    threading.Thread(target=server.serve_forever, daemon=True).start()
+    logger.info("Dashboard server started on port %d", port)
+    return server
 
 
 def main() -> None:
@@ -163,6 +167,9 @@ def main() -> None:
 
     github_client = GitHubClient(github_token)
     readme_analyzer = ReadmeAnalyzer(anthropic_api_key)
+
+    output_dir = "results"
+    start_server(output_dir, args.port)
 
     if not args.discover and not args.usernames and not args.input_file:
         args.discover = "ai-agent,llm,developer-tools,open-source"
@@ -182,14 +189,13 @@ def main() -> None:
 
     logger.info("Done. %d/%d profiles passed filters.", len(results), len(usernames))
 
-    output_dir = "results"
     save_results(results, output_dir)
-
-    serve_dashboard(output_dir, args.port)
 
     dashboard_path = os.path.abspath(os.path.join(output_dir, "dashboard.html"))
     print(f"\nDashboard: http://localhost:{args.port}/dashboard.html")
     print(f"Local file: {dashboard_path}")
+
+    threading.Event().wait()  # keep process alive so the server keeps running
 
 
 if __name__ == "__main__":
