@@ -5,7 +5,6 @@ import functools
 import http.server
 import logging
 import os
-import threading
 from datetime import datetime, timezone
 from typing import Optional
 
@@ -50,8 +49,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--port",
         type=int,
-        default=8080,
-        help="Port to serve the results dashboard on (default: 8080)",
+        default=int(os.environ.get("PORT", 8080)),
+        help="Port to serve the results dashboard on (default: PORT env var or 8080)",
     )
     return parser.parse_args()
 
@@ -146,11 +145,9 @@ def serve_dashboard(output_dir: str, port: int) -> None:
         http.server.SimpleHTTPRequestHandler,
         directory=os.path.abspath(output_dir),
     )
-    # Allow immediate port reuse
     http.server.HTTPServer.allow_reuse_address = True
     server = http.server.HTTPServer(("", port), handler)
-    thread = threading.Thread(target=server.serve_forever, daemon=True)
-    thread.start()
+    server.serve_forever()
 
 
 def main() -> None:
@@ -166,6 +163,10 @@ def main() -> None:
 
     github_client = GitHubClient(github_token)
     readme_analyzer = ReadmeAnalyzer(anthropic_api_key)
+
+    if not args.discover and not args.usernames and not args.input_file:
+        args.discover = "ai-agent,llm,developer-tools,open-source"
+        logger.info("No input source specified — defaulting to --discover %s", args.discover)
 
     usernames = collect_usernames(args, github_client)
     if not usernames:
@@ -189,7 +190,6 @@ def main() -> None:
     dashboard_path = os.path.abspath(os.path.join(output_dir, "dashboard.html"))
     print(f"\nDashboard: http://localhost:{args.port}/dashboard.html")
     print(f"Local file: {dashboard_path}")
-    input("\nPress Enter to stop the server...\n")
 
 
 if __name__ == "__main__":
