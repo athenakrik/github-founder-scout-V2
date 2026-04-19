@@ -1,0 +1,4304 @@
+[
+  {
+    "username": "Dann606",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 762,
+    "github_url": "https://github.com/Dann606",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Koushik2004great",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 558,
+    "github_url": "https://github.com/Koushik2004great",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "SuperInstance",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 2,
+    "account_age_days": 475,
+    "github_url": "https://github.com/SuperInstance",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "jyrki69pro",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 333,
+    "github_url": "https://github.com/jyrki69pro",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "yaniv-golan",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 26,
+    "account_age_days": 4651,
+    "github_url": "https://github.com/yaniv-golan",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "Oceanicabysslesothomonetaryunit652",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 230,
+    "github_url": "https://github.com/Oceanicabysslesothomonetaryunit652",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "marekre352",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 231,
+    "github_url": "https://github.com/marekre352",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "100rabhsah",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": true,
+      "readme_product_voice": false,
+      "stack_sophistication": true,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": false
+    },
+    "follower_count": 31,
+    "account_age_days": 1270,
+    "github_url": "https://github.com/100rabhsah",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, external_engagement, stack_sophistication, domain_focus_clustering, complexity_progression"
+  },
+  {
+    "username": "verkyyi",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": false,
+      "bio_signals": false
+    },
+    "follower_count": 6,
+    "account_age_days": 4913,
+    "github_url": "https://github.com/verkyyi",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "Stevehim0",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1312,
+    "github_url": "https://github.com/Stevehim0",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, bio_signals"
+  },
+  {
+    "username": "leprachuan",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 2,
+    "account_age_days": 3533,
+    "github_url": "https://github.com/leprachuan",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "joshua-jingu-lee",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 4294,
+    "github_url": "https://github.com/joshua-jingu-lee",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "codefusion-24",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 350,
+    "github_url": "https://github.com/codefusion-24",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "c0m4r",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 19,
+    "account_age_days": 4491,
+    "github_url": "https://github.com/c0m4r",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "Prashntgtm",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 1404,
+    "github_url": "https://github.com/Prashntgtm",
+    "classification_reason": "Insufficient signals; flags fired: external_engagement, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Ochieng20",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": true,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 457,
+    "github_url": "https://github.com/Ochieng20",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, stack_sophistication, bio_signals"
+  },
+  {
+    "username": "vivekchand",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": true,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 53,
+    "account_age_days": 5357,
+    "github_url": "https://github.com/vivekchand",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "DAUS089",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1931,
+    "github_url": "https://github.com/DAUS089",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "laperdida23",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1033,
+    "github_url": "https://github.com/laperdida23",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "rupamsamanta123",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1144,
+    "github_url": "https://github.com/rupamsamanta123",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "dexdot20",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 947,
+    "github_url": "https://github.com/dexdot20",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "Herry259",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 470,
+    "github_url": "https://github.com/Herry259",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Indraparama940",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 308,
+    "github_url": "https://github.com/Indraparama940",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "smuv3",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1040,
+    "github_url": "https://github.com/smuv3",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "FqpF-c",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 1663,
+    "github_url": "https://github.com/FqpF-c",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "airmang",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": false,
+      "bio_signals": false
+    },
+    "follower_count": 7,
+    "account_age_days": 2925,
+    "github_url": "https://github.com/airmang",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, external_engagement, domain_focus_clustering"
+  },
+  {
+    "username": "silaskiragu",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": true,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 2206,
+    "github_url": "https://github.com/silaskiragu",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, stack_sophistication, bio_signals"
+  },
+  {
+    "username": "the-shark-guy",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 465,
+    "github_url": "https://github.com/the-shark-guy",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "kurtpayne",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 16,
+    "account_age_days": 5346,
+    "github_url": "https://github.com/kurtpayne",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "issamsam",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 2416,
+    "github_url": "https://github.com/issamsam",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Armaan29-09-2005",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 441,
+    "github_url": "https://github.com/Armaan29-09-2005",
+    "classification_reason": "Insufficient signals; flags fired: bio_signals"
+  },
+  {
+    "username": "irfanbob26",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 2445,
+    "github_url": "https://github.com/irfanbob26",
+    "classification_reason": "Insufficient signals; flags fired: external_engagement, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Commander01863",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1125,
+    "github_url": "https://github.com/Commander01863",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, external_engagement, readme_product_voice, complexity_progression, bio_signals"
+  },
+  {
+    "username": "srtab",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": false
+    },
+    "follower_count": 53,
+    "account_age_days": 5439,
+    "github_url": "https://github.com/srtab",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "Mustafkgl",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": true,
+      "domain_focus_clustering": true,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 8,
+    "account_age_days": 1646,
+    "github_url": "https://github.com/Mustafkgl",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, stack_sophistication, domain_focus_clustering, bio_signals"
+  },
+  {
+    "username": "Alex8791-cyber",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 4,
+    "account_age_days": 277,
+    "github_url": "https://github.com/Alex8791-cyber",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, complexity_progression, bio_signals"
+  },
+  {
+    "username": "WingedGuardian",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 3,
+    "account_age_days": 648,
+    "github_url": "https://github.com/WingedGuardian",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, domain_focus_clustering, complexity_progression, bio_signals"
+  },
+  {
+    "username": "slbug",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 14,
+    "account_age_days": 6111,
+    "github_url": "https://github.com/slbug",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "akorablov",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": false,
+      "bio_signals": false
+    },
+    "follower_count": 3,
+    "account_age_days": 270,
+    "github_url": "https://github.com/akorablov",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, domain_focus_clustering"
+  },
+  {
+    "username": "ABUTHAHIR101",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 287,
+    "github_url": "https://github.com/ABUTHAHIR101",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "dykeruv",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1154,
+    "github_url": "https://github.com/dykeruv",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "keboka07",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 268,
+    "github_url": "https://github.com/keboka07",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, external_engagement, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "azzan1235",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1015,
+    "github_url": "https://github.com/azzan1235",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Fzkuji",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 10,
+    "account_age_days": 2433,
+    "github_url": "https://github.com/Fzkuji",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, domain_focus_clustering, complexity_progression, bio_signals"
+  },
+  {
+    "username": "vbhanuprasad55-coder",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 270,
+    "github_url": "https://github.com/vbhanuprasad55-coder",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "samsaeed22",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 327,
+    "github_url": "https://github.com/samsaeed22",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "voidjoshua",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1769,
+    "github_url": "https://github.com/voidjoshua",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "ggsaad82",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 306,
+    "github_url": "https://github.com/ggsaad82",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Niranjan-008",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 675,
+    "github_url": "https://github.com/Niranjan-008",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "areynard13",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": true,
+      "bio_signals": false
+    },
+    "follower_count": 5,
+    "account_age_days": 469,
+    "github_url": "https://github.com/areynard13",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, complexity_progression"
+  },
+  {
+    "username": "Moraa1714",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 536,
+    "github_url": "https://github.com/Moraa1714",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "RikyZ90",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 4,
+    "account_age_days": 551,
+    "github_url": "https://github.com/RikyZ90",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "Metaphysicist1",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": false,
+      "stack_sophistication": true,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 33,
+    "account_age_days": 2112,
+    "github_url": "https://github.com/Metaphysicist1",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, stack_sophistication, domain_focus_clustering, complexity_progression, bio_signals"
+  },
+  {
+    "username": "yigido41",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 321,
+    "github_url": "https://github.com/yigido41",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "skybirdoms",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 278,
+    "github_url": "https://github.com/skybirdoms",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "timegamin",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1469,
+    "github_url": "https://github.com/timegamin",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "crussella0129",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": false
+    },
+    "follower_count": 106,
+    "account_age_days": 1340,
+    "github_url": "https://github.com/crussella0129",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "meshseed",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": false
+    },
+    "follower_count": 0,
+    "account_age_days": 220,
+    "github_url": "https://github.com/meshseed",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice"
+  },
+  {
+    "username": "eboekenh",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": true,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 14,
+    "account_age_days": 2493,
+    "github_url": "https://github.com/eboekenh",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, stack_sophistication, domain_focus_clustering, complexity_progression, bio_signals"
+  },
+  {
+    "username": "slucerodev",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 217,
+    "github_url": "https://github.com/slucerodev",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, bio_signals"
+  },
+  {
+    "username": "tmaloziec",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 250,
+    "github_url": "https://github.com/tmaloziec",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Atharv279",
+    "profile_type": "Early Trajectory",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 3,
+    "account_age_days": 1797,
+    "github_url": "https://github.com/Atharv279",
+    "classification_reason": "complexity_progression + domain_focus_clustering present; no deployment signals yet"
+  },
+  {
+    "username": "KadenMc",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": true,
+      "bio_signals": false
+    },
+    "follower_count": 14,
+    "account_age_days": 2385,
+    "github_url": "https://github.com/KadenMc",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, external_engagement, readme_product_voice, complexity_progression"
+  },
+  {
+    "username": "MuhammadUsmanGM",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": false,
+      "stack_sophistication": true,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 8,
+    "account_age_days": 496,
+    "github_url": "https://github.com/MuhammadUsmanGM",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "bhjia-phys",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": false
+    },
+    "follower_count": 5,
+    "account_age_days": 620,
+    "github_url": "https://github.com/bhjia-phys",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, external_engagement, readme_product_voice"
+  },
+  {
+    "username": "tobocop2",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": true,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 46,
+    "account_age_days": 4585,
+    "github_url": "https://github.com/tobocop2",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "Ruinius",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": true,
+      "domain_focus_clustering": false,
+      "complexity_progression": true,
+      "bio_signals": false
+    },
+    "follower_count": 2,
+    "account_age_days": 4518,
+    "github_url": "https://github.com/Ruinius",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, readme_product_voice, stack_sophistication, complexity_progression"
+  },
+  {
+    "username": "can4hou6joeng4",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": true,
+      "bio_signals": false
+    },
+    "follower_count": 11,
+    "account_age_days": 2143,
+    "github_url": "https://github.com/can4hou6joeng4",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "nongjun",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 2,
+    "account_age_days": 431,
+    "github_url": "https://github.com/nongjun",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, complexity_progression, bio_signals"
+  },
+  {
+    "username": "mikhashev",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 101,
+    "account_age_days": 4402,
+    "github_url": "https://github.com/mikhashev",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "daviden1013",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": false
+    },
+    "follower_count": 7,
+    "account_age_days": 3390,
+    "github_url": "https://github.com/daviden1013",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, domain_focus_clustering, complexity_progression"
+  },
+  {
+    "username": "siddiqui-zeeshan",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": true,
+      "bio_signals": false
+    },
+    "follower_count": 0,
+    "account_age_days": 2127,
+    "github_url": "https://github.com/siddiqui-zeeshan",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "tomcounsell",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 43,
+    "account_age_days": 4947,
+    "github_url": "https://github.com/tomcounsell",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "Justkokosixnine",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1640,
+    "github_url": "https://github.com/Justkokosixnine",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "popa228-byte",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 422,
+    "github_url": "https://github.com/popa228-byte",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Nick94665",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": true,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 342,
+    "github_url": "https://github.com/Nick94665",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, stack_sophistication, bio_signals"
+  },
+  {
+    "username": "moner124",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1983,
+    "github_url": "https://github.com/moner124",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "gangarubo",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1652,
+    "github_url": "https://github.com/gangarubo",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "eshaaaan",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1184,
+    "github_url": "https://github.com/eshaaaan",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "sansan0",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": false,
+      "bio_signals": false
+    },
+    "follower_count": 1570,
+    "account_age_days": 1925,
+    "github_url": "https://github.com/sansan0",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, external_engagement, readme_product_voice, domain_focus_clustering"
+  },
+  {
+    "username": "sjmason777",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 238,
+    "github_url": "https://github.com/sjmason777",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Carricacha",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 1141,
+    "github_url": "https://github.com/Carricacha",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Ski-na",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 277,
+    "github_url": "https://github.com/Ski-na",
+    "classification_reason": "Insufficient signals; flags fired: bio_signals"
+  },
+  {
+    "username": "newspapercriticcontribution396",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 237,
+    "github_url": "https://github.com/newspapercriticcontribution396",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "penpoen",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1594,
+    "github_url": "https://github.com/penpoen",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Linlichinese",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1074,
+    "github_url": "https://github.com/Linlichinese",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Jasson5O66",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 322,
+    "github_url": "https://github.com/Jasson5O66",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "gabrielgs2k",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 439,
+    "github_url": "https://github.com/gabrielgs2k",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "AlineFree",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": false
+    },
+    "follower_count": 1,
+    "account_age_days": 680,
+    "github_url": "https://github.com/AlineFree",
+    "classification_reason": "Insufficient signals; flags fired: none"
+  },
+  {
+    "username": "PrajwalNeeralagi",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1115,
+    "github_url": "https://github.com/PrajwalNeeralagi",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "burgerkhan6227",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1057,
+    "github_url": "https://github.com/burgerkhan6227",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "shawnacontrary24",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 235,
+    "github_url": "https://github.com/shawnacontrary24",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Christoferactinomycetal309",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 235,
+    "github_url": "https://github.com/Christoferactinomycetal309",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "civillibertarian-stressincontinence617",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 235,
+    "github_url": "https://github.com/civillibertarian-stressincontinence617",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "L-Forster",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": false
+    },
+    "follower_count": 7,
+    "account_age_days": 1227,
+    "github_url": "https://github.com/L-Forster",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, domain_focus_clustering, complexity_progression"
+  },
+  {
+    "username": "zengatso",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 864,
+    "github_url": "https://github.com/zengatso",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "melanynewmown790",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 235,
+    "github_url": "https://github.com/melanynewmown790",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "jessaminesimple608",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 235,
+    "github_url": "https://github.com/jessaminesimple608",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Juliofal4822",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 234,
+    "github_url": "https://github.com/Juliofal4822",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Skrapma4872",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 235,
+    "github_url": "https://github.com/Skrapma4872",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "yahyaDesoky",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1979,
+    "github_url": "https://github.com/yahyaDesoky",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "snyny22",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1520,
+    "github_url": "https://github.com/snyny22",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Cuspate-localauthority301",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 235,
+    "github_url": "https://github.com/Cuspate-localauthority301",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "EmilioEsposito",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": false
+    },
+    "follower_count": 4,
+    "account_age_days": 3792,
+    "github_url": "https://github.com/EmilioEsposito",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, domain_focus_clustering, complexity_progression"
+  },
+  {
+    "username": "D3soros",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 382,
+    "github_url": "https://github.com/D3soros",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "undomestic-georgebeadle691",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 234,
+    "github_url": "https://github.com/undomestic-georgebeadle691",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "nooksandcrannieslgb937",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 234,
+    "github_url": "https://github.com/nooksandcrannieslgb937",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "krahd",
+    "profile_type": "Early Trajectory",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 4,
+    "account_age_days": 5740,
+    "github_url": "https://github.com/krahd",
+    "classification_reason": "complexity_progression + domain_focus_clustering present; no deployment signals yet"
+  },
+  {
+    "username": "electron-rare",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": false
+    },
+    "follower_count": 2,
+    "account_age_days": 1384,
+    "github_url": "https://github.com/electron-rare",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "krishna427",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 4073,
+    "github_url": "https://github.com/krishna427",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "tarrantwrong366",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 234,
+    "github_url": "https://github.com/tarrantwrong366",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Vankill08",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 938,
+    "github_url": "https://github.com/Vankill08",
+    "classification_reason": "Insufficient signals; flags fired: external_engagement, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Monographatmosphericphenomenon995",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 230,
+    "github_url": "https://github.com/Monographatmosphericphenomenon995",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "ghaithmhmm",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 887,
+    "github_url": "https://github.com/ghaithmhmm",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "treated-orris652",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 230,
+    "github_url": "https://github.com/treated-orris652",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "v0acc0002",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 242,
+    "github_url": "https://github.com/v0acc0002",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "pepito-911",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 301,
+    "github_url": "https://github.com/pepito-911",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "pooh1649",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 274,
+    "github_url": "https://github.com/pooh1649",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Donnyb369",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 412,
+    "github_url": "https://github.com/Donnyb369",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "DR1X1",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": true,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 913,
+    "github_url": "https://github.com/DR1X1",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, stack_sophistication, bio_signals"
+  },
+  {
+    "username": "arsalanafzal010",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 397,
+    "github_url": "https://github.com/arsalanafzal010",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "twis1d",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 938,
+    "github_url": "https://github.com/twis1d",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "shajith003",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 443,
+    "github_url": "https://github.com/shajith003",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "rinomakin21",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": false
+    },
+    "follower_count": 0,
+    "account_age_days": 1040,
+    "github_url": "https://github.com/rinomakin21",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, external_engagement, readme_product_voice"
+  },
+  {
+    "username": "youssef17amr",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 274,
+    "github_url": "https://github.com/youssef17amr",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, external_engagement, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "rangga276",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 357,
+    "github_url": "https://github.com/rangga276",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "immaterial-radicle677",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 228,
+    "github_url": "https://github.com/immaterial-radicle677",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "vladimir22700",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": true,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 228,
+    "github_url": "https://github.com/vladimir22700",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, stack_sophistication, bio_signals"
+  },
+  {
+    "username": "klkbtw",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1177,
+    "github_url": "https://github.com/klkbtw",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, bio_signals"
+  },
+  {
+    "username": "PetoVeritas",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 2248,
+    "github_url": "https://github.com/PetoVeritas",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, bio_signals"
+  },
+  {
+    "username": "venxhit",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 330,
+    "github_url": "https://github.com/venxhit",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "aidoruao",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 657,
+    "github_url": "https://github.com/aidoruao",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "joshualegado008",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": true,
+      "domain_focus_clustering": false,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 426,
+    "github_url": "https://github.com/joshualegado008",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, stack_sophistication, complexity_progression, bio_signals"
+  },
+  {
+    "username": "blight07262021",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": true,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1012,
+    "github_url": "https://github.com/blight07262021",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, stack_sophistication, bio_signals"
+  },
+  {
+    "username": "testsuprakash",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1346,
+    "github_url": "https://github.com/testsuprakash",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "HOLYKEYZ",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": false,
+      "bio_signals": false
+    },
+    "follower_count": 63,
+    "account_age_days": 483,
+    "github_url": "https://github.com/HOLYKEYZ",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "memtomem",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 2,
+    "account_age_days": 1247,
+    "github_url": "https://github.com/memtomem",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, external_engagement, readme_product_voice, domain_focus_clustering, bio_signals"
+  },
+  {
+    "username": "Yusuf270200101",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1568,
+    "github_url": "https://github.com/Yusuf270200101",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Benosam213",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 675,
+    "github_url": "https://github.com/Benosam213",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, external_engagement, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Pirate-Pipi",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 349,
+    "github_url": "https://github.com/Pirate-Pipi",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Anshudeshmukh14",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 721,
+    "github_url": "https://github.com/Anshudeshmukh14",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "schmitech",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": false
+    },
+    "follower_count": 27,
+    "account_age_days": 3496,
+    "github_url": "https://github.com/schmitech",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice"
+  },
+  {
+    "username": "alistaitsacle",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": true,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 3,
+    "account_age_days": 1620,
+    "github_url": "https://github.com/alistaitsacle",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, stack_sophistication, bio_signals"
+  },
+  {
+    "username": "MOSES554",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1185,
+    "github_url": "https://github.com/MOSES554",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "skioneczek",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 655,
+    "github_url": "https://github.com/skioneczek",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "futuroptimist",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": false,
+      "stack_sophistication": true,
+      "domain_focus_clustering": false,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 7,
+    "account_age_days": 1860,
+    "github_url": "https://github.com/futuroptimist",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "Cryptobyrda",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 785,
+    "github_url": "https://github.com/Cryptobyrda",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "seangalliher",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": false
+    },
+    "follower_count": 8,
+    "account_age_days": 5136,
+    "github_url": "https://github.com/seangalliher",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, domain_focus_clustering, complexity_progression"
+  },
+  {
+    "username": "Hariprasadrio",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 422,
+    "github_url": "https://github.com/Hariprasadrio",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "JatinJangid2007",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 2,
+    "account_age_days": 457,
+    "github_url": "https://github.com/JatinJangid2007",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Thianvelaz",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1317,
+    "github_url": "https://github.com/Thianvelaz",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "jekeng",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 607,
+    "github_url": "https://github.com/jekeng",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "hamzaideators",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1451,
+    "github_url": "https://github.com/hamzaideators",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Goingparsley",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 1318,
+    "github_url": "https://github.com/Goingparsley",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "iamsocool24",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 250,
+    "github_url": "https://github.com/iamsocool24",
+    "classification_reason": "Insufficient signals; flags fired: external_engagement, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "supertrained",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": true,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 316,
+    "github_url": "https://github.com/supertrained",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, stack_sophistication, bio_signals"
+  },
+  {
+    "username": "Umair-ul-Hassan-cmd",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 471,
+    "github_url": "https://github.com/Umair-ul-Hassan-cmd",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Vietb6787",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 234,
+    "github_url": "https://github.com/Vietb6787",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "supleme4588",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 230,
+    "github_url": "https://github.com/supleme4588",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "owadev777",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 305,
+    "github_url": "https://github.com/owadev777",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "bloody2634",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 230,
+    "github_url": "https://github.com/bloody2634",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Nicolas12341234",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 455,
+    "github_url": "https://github.com/Nicolas12341234",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "monat1628",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 230,
+    "github_url": "https://github.com/monat1628",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "428alexander9",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1629,
+    "github_url": "https://github.com/428alexander9",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "myalgic-dactylopius884",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 230,
+    "github_url": "https://github.com/myalgic-dactylopius884",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "sahoovivek",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1409,
+    "github_url": "https://github.com/sahoovivek",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "KennyNeo",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1253,
+    "github_url": "https://github.com/KennyNeo",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "djscool3508",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 2861,
+    "github_url": "https://github.com/djscool3508",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "uludakar",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 330,
+    "github_url": "https://github.com/uludakar",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "7668toni",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 327,
+    "github_url": "https://github.com/7668toni",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "mrvaibhavgithub",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": false
+    },
+    "follower_count": 0,
+    "account_age_days": 574,
+    "github_url": "https://github.com/mrvaibhavgithub",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, readme_product_voice"
+  },
+  {
+    "username": "Naxh156",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 343,
+    "github_url": "https://github.com/Naxh156",
+    "classification_reason": "Insufficient signals; flags fired: bio_signals"
+  },
+  {
+    "username": "alinaqi",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": true,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": false
+    },
+    "follower_count": 50,
+    "account_age_days": 4671,
+    "github_url": "https://github.com/alinaqi",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "facenamvps",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 415,
+    "github_url": "https://github.com/facenamvps",
+    "classification_reason": "Insufficient signals; flags fired: bio_signals"
+  },
+  {
+    "username": "HIYO-F",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 1879,
+    "github_url": "https://github.com/HIYO-F",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Feros0",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1992,
+    "github_url": "https://github.com/Feros0",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "kenfatys",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 2866,
+    "github_url": "https://github.com/kenfatys",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "SUBHADEEP-KUNDU-2004",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 628,
+    "github_url": "https://github.com/SUBHADEEP-KUNDU-2004",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "shawndcool",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 842,
+    "github_url": "https://github.com/shawndcool",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Saleh908",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 519,
+    "github_url": "https://github.com/Saleh908",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Efhnrkn1",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 381,
+    "github_url": "https://github.com/Efhnrkn1",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "sadatt123",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1423,
+    "github_url": "https://github.com/sadatt123",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "USERNAMEaenter-max",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 612,
+    "github_url": "https://github.com/USERNAMEaenter-max",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Hdidgdbdidno",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1195,
+    "github_url": "https://github.com/Hdidgdbdidno",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "shreyashKilledar1",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 661,
+    "github_url": "https://github.com/shreyashKilledar1",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "DPabloFlores",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1145,
+    "github_url": "https://github.com/DPabloFlores",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "damn124",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 957,
+    "github_url": "https://github.com/damn124",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "boomking0808",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 849,
+    "github_url": "https://github.com/boomking0808",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "ayukyo",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 4376,
+    "github_url": "https://github.com/ayukyo",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "leozin143",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 453,
+    "github_url": "https://github.com/leozin143",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "xBartsx",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 850,
+    "github_url": "https://github.com/xBartsx",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Revrend667",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 385,
+    "github_url": "https://github.com/Revrend667",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "CodeWithBehnam",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": false
+    },
+    "follower_count": 13,
+    "account_age_days": 2583,
+    "github_url": "https://github.com/CodeWithBehnam",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "CyberNerdsTechnologies",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 476,
+    "github_url": "https://github.com/CyberNerdsTechnologies",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "nicholasglazer",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 24,
+    "account_age_days": 4375,
+    "github_url": "https://github.com/nicholasglazer",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "herakles-dev",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": false,
+      "stack_sophistication": true,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": false
+    },
+    "follower_count": 2,
+    "account_age_days": 589,
+    "github_url": "https://github.com/herakles-dev",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "rbroderi",
+    "profile_type": "Early Trajectory",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 3805,
+    "github_url": "https://github.com/rbroderi",
+    "classification_reason": "complexity_progression + domain_focus_clustering present; no deployment signals yet"
+  },
+  {
+    "username": "chernistry",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": true,
+      "domain_focus_clustering": true,
+      "complexity_progression": false,
+      "bio_signals": false
+    },
+    "follower_count": 35,
+    "account_age_days": 1991,
+    "github_url": "https://github.com/chernistry",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "edu2105",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 3323,
+    "github_url": "https://github.com/edu2105",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, complexity_progression, bio_signals"
+  },
+  {
+    "username": "joaquinariasco-lab",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 2,
+    "account_age_days": 81,
+    "github_url": "https://github.com/joaquinariasco-lab",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "mohankrishnaalavala",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 256,
+    "github_url": "https://github.com/mohankrishnaalavala",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "SumithSB",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": true,
+      "domain_focus_clustering": true,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 10,
+    "account_age_days": 2401,
+    "github_url": "https://github.com/SumithSB",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, stack_sophistication, domain_focus_clustering, bio_signals"
+  },
+  {
+    "username": "brunowinter8192",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 202,
+    "github_url": "https://github.com/brunowinter8192",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, domain_focus_clustering, bio_signals"
+  },
+  {
+    "username": "markhazleton",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": false,
+      "stack_sophistication": true,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": false
+    },
+    "follower_count": 24,
+    "account_age_days": 5877,
+    "github_url": "https://github.com/markhazleton",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "jyao97",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 11,
+    "account_age_days": 749,
+    "github_url": "https://github.com/jyao97",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Wolfe-Jam",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": false,
+      "stack_sophistication": true,
+      "domain_focus_clustering": true,
+      "complexity_progression": false,
+      "bio_signals": false
+    },
+    "follower_count": 7,
+    "account_age_days": 508,
+    "github_url": "https://github.com/Wolfe-Jam",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "buster92",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 5486,
+    "github_url": "https://github.com/buster92",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, external_engagement, readme_product_voice, domain_focus_clustering, bio_signals"
+  },
+  {
+    "username": "hu553in",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": false,
+      "bio_signals": false
+    },
+    "follower_count": 17,
+    "account_age_days": 2958,
+    "github_url": "https://github.com/hu553in",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, domain_focus_clustering"
+  },
+  {
+    "username": "sergeiwallace",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": true,
+      "readme_product_voice": false,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": false
+    },
+    "follower_count": 21,
+    "account_age_days": 4458,
+    "github_url": "https://github.com/sergeiwallace",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, external_engagement"
+  },
+  {
+    "username": "BjornMelin",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": true,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": false
+    },
+    "follower_count": 118,
+    "account_age_days": 2606,
+    "github_url": "https://github.com/BjornMelin",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "gioe",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": false,
+      "stack_sophistication": true,
+      "domain_focus_clustering": false,
+      "complexity_progression": true,
+      "bio_signals": false
+    },
+    "follower_count": 3,
+    "account_age_days": 4602,
+    "github_url": "https://github.com/gioe",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "DarkWolfCave",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": true,
+      "bio_signals": false
+    },
+    "follower_count": 2,
+    "account_age_days": 1942,
+    "github_url": "https://github.com/DarkWolfCave",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, complexity_progression"
+  },
+  {
+    "username": "diegosouzapw",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": true,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": false
+    },
+    "follower_count": 105,
+    "account_age_days": 4311,
+    "github_url": "https://github.com/diegosouzapw",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "Borda",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": false,
+      "bio_signals": false
+    },
+    "follower_count": 3875,
+    "account_age_days": 4527,
+    "github_url": "https://github.com/Borda",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "rbarmyarmy",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 278,
+    "github_url": "https://github.com/rbarmyarmy",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "xxpixel",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 2,
+    "account_age_days": 2994,
+    "github_url": "https://github.com/xxpixel",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "kazucheat",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 275,
+    "github_url": "https://github.com/kazucheat",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "djunekz",
+    "profile_type": "Early Trajectory",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": false
+    },
+    "follower_count": 24,
+    "account_age_days": 2582,
+    "github_url": "https://github.com/djunekz",
+    "classification_reason": "complexity_progression + domain_focus_clustering present; no deployment signals yet"
+  },
+  {
+    "username": "unitedideas",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 9,
+    "account_age_days": 4238,
+    "github_url": "https://github.com/unitedideas",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "astroprakash",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1113,
+    "github_url": "https://github.com/astroprakash",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "del267",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 356,
+    "github_url": "https://github.com/del267",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "gishanrivindu00",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 4,
+    "account_age_days": 1698,
+    "github_url": "https://github.com/gishanrivindu00",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, domain_focus_clustering, bio_signals"
+  },
+  {
+    "username": "fnbdesign",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1361,
+    "github_url": "https://github.com/fnbdesign",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "RanveerGaming0",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 528,
+    "github_url": "https://github.com/RanveerGaming0",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, readme_product_voice, complexity_progression, bio_signals"
+  },
+  {
+    "username": "ligapamungkas",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 279,
+    "github_url": "https://github.com/ligapamungkas",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Tlaloc-Es",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": false
+    },
+    "follower_count": 31,
+    "account_age_days": 3983,
+    "github_url": "https://github.com/Tlaloc-Es",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "vishalkumaryadav",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1331,
+    "github_url": "https://github.com/vishalkumaryadav",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "mahomed5",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1297,
+    "github_url": "https://github.com/mahomed5",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Wided123-456-789",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 758,
+    "github_url": "https://github.com/Wided123-456-789",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Frank4112",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 6,
+    "account_age_days": 374,
+    "github_url": "https://github.com/Frank4112",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Ghost121111",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 629,
+    "github_url": "https://github.com/Ghost121111",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "Miguel-max219",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": true,
+      "bio_signals": false
+    },
+    "follower_count": 0,
+    "account_age_days": 491,
+    "github_url": "https://github.com/Miguel-max219",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, readme_product_voice, complexity_progression"
+  },
+  {
+    "username": "brightboateng",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 2120,
+    "github_url": "https://github.com/brightboateng",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "f959",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 1,
+    "account_age_days": 2427,
+    "github_url": "https://github.com/f959",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, readme_product_voice, bio_signals"
+  },
+  {
+    "username": "zullani",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1531,
+    "github_url": "https://github.com/zullani",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "xaac10",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": true,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 430,
+    "github_url": "https://github.com/xaac10",
+    "classification_reason": "Insufficient signals; flags fired: recent_commit_velocity, readme_product_voice, domain_focus_clustering, bio_signals"
+  },
+  {
+    "username": "LucasSantana-Dev",
+    "profile_type": "Active Product Builder",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": true,
+      "external_engagement": true,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": true,
+      "complexity_progression": true,
+      "bio_signals": true
+    },
+    "follower_count": 44,
+    "account_age_days": 1549,
+    "github_url": "https://github.com/LucasSantana-Dev",
+    "classification_reason": "deployment_signals + recent_commit_velocity + external_engagement all present"
+  },
+  {
+    "username": "TheEnd14147",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": false,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 391,
+    "github_url": "https://github.com/TheEnd14147",
+    "classification_reason": "Insufficient signals; flags fired: readme_product_voice, bio_signals"
+  },
+  {
+    "username": "alzaiddalia",
+    "profile_type": "Hobbyist",
+    "flags": {
+      "deployment_signals": true,
+      "recent_commit_velocity": false,
+      "external_engagement": false,
+      "readme_product_voice": true,
+      "stack_sophistication": false,
+      "domain_focus_clustering": false,
+      "complexity_progression": false,
+      "bio_signals": true
+    },
+    "follower_count": 0,
+    "account_age_days": 1539,
+    "github_url": "https://github.com/alzaiddalia",
+    "classification_reason": "Insufficient signals; flags fired: deployment_signals, readme_product_voice, bio_signals"
+  }
+]
