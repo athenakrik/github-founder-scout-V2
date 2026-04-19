@@ -18,6 +18,16 @@ body {
 
 /* ── Header ── */
 header { margin-bottom: 2rem; }
+.header-top {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  margin-bottom: .35rem;
+}
+.header-top img {
+  height: 40px;
+  width: auto;
+}
 header h1 {
   font-size: 1.6rem;
   font-weight: 700;
@@ -220,7 +230,10 @@ footer {
 </head>
 <body>
 <header>
-  <h1>GitHub <span>Founder</span> Scout</h1>
+  <div class="header-top">
+    <img src="../github sourcer image.png" alt="GitHub Sourcer logo">
+    <h1>GitHub <span>Founder</span> Scout</h1>
+  </div>
   <p class="subtitle">Run April 18, 2026 at 20:57 &nbsp;·&nbsp; 239 profiles evaluated</p>
   <div class="stat-grid"><div class="stat-card stat-apb"><div class="count">39</div><div class="label">Active Product Builder</div></div><div class="stat-card stat-et"><div class="count">4</div><div class="label">Early Trajectory</div></div><div class="stat-card stat-hob"><div class="count">196</div><div class="label">Hobbyist</div></div><div class="stat-card stat-ak"><div class="count">0</div><div class="label">Already Known</div></div></div>
 </header>
